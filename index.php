@@ -66,7 +66,7 @@
                 	<div id="invitation" style="align:center">
                         
                     	<img src="images/motif.png" align="center" /><br/><br/>
-                        <h1 class="alt mobile-hide">Jennifer and Rachel</h1>
+                        <h1 class="alt mobile-hide">sdfJennifer and Rachel</h1>
                         <h1 class="alt mobile-hide">are getting married!</h1>
                         <h1 class="alt mobile-hide">Marin Headlands, CA</h1>
                         <h1 class="alt mobile-hide">August 17th, 2013</h1><br/>
